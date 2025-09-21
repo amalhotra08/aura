@@ -1,0 +1,30 @@
+[
+  {
+    "id": "na-arctic",
+    "latitude": 71.0,
+    "longitude": -42.0,
+    "animals": [
+      { "name": "Polar Bear", "symbolSystemName": "pawprint" },
+      { "name": "Arctic Fox", "symbolSystemName": "hare" }
+    ]
+  },
+  {
+    "id": "af-savannah",
+    "latitude": -1.5,
+    "longitude": 36.8,
+    "animals": [
+      { "name": "Elephant", "symbolSystemName": "tortoise" },
+      { "name": "Lion", "symbolSystemName": "lizard" }
+    ]
+  },
+  {
+    "id": "au-reef",
+    "latitude": -16.9,
+    "longitude": 145.8,
+    "animals": [
+      { "name": "Sea Turtle", "symbolSystemName": "tortoise" },
+      { "name": "Dolphin", "symbolSystemName": "fish" }
+    ]
+  }
+]
+
